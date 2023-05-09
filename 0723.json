@@ -16,6 +16,7 @@
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"csp_77","name":"🍀四叶草TV","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_茶杯狐","name":"📌茶杯狐热播","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"./js/茶杯狐.js"}
 {"key": "drpy","name": "🈲视频内的广告勿信🈲","type": 3,"api": "./js/drpy.min.js","ext": "./js/秋霞影视.js"},
 {"key":"创艺影视","name":"💢视频内的广告勿信💢","type":3,"api":"./js/drpy.min.js","ext":"./js/创艺影视.js"},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
